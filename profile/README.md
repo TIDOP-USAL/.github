@@ -1,4 +1,4 @@
-![](images/RRSS_PORTADA_RESEARCH.png)
+![]([images/RRSS_PORTADA_RESEARCH.png](https://github.com/TIDOP-USAL/.github/blob/main/profile/images/RRSS_PORTADA_RESEARCH.png))
 
 Created in 2005, the research group TIDOP (Information Technologies for the Intelligent Digitization of Objects and Processes), belonging to the Department of Cartographic and Terrain Engineering of the University of Salamanca, joins its efforts around 3 main pillars: the geospatial industry, renewable energies and the analysis of structures and materials.
 
